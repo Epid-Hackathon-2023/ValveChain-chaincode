@@ -1,0 +1,23 @@
+{
+  "name": "valvechain-chaincode",
+  "version": "1.0.0",
+  "description": "Blockchain Chaincode (Smart contract)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Epid-Hackathon-2023/ValveChain-chaincode.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Epid-Hackathon-2023/ValveChain-chaincode/issues"
+  },
+  "homepage": "https://github.com/Epid-Hackathon-2023/ValveChain-chaincode#readme",
+  "dependencies": {
+    "fabric-contract-api": "^2.5.2",
+    "fabric-shim": "^2.5.2"
+  }
+}
