@@ -1,4 +1,5 @@
-const simpleAssetTransfer = require('./lib/simpleAssetTransfer');
+const valveMaintenanceContract = require('./lib/valveMaintenanceContract');
 
-module.exports.SimpleAssetTransfer = simpleAssetTransfer;
-module.exports.contracts = [simpleAssetTransfer];
+module.exports.ValveMaintenanceContract = valveMaintenanceContract;
+module.exports.contracts = [valveMaintenanceContract];
+
